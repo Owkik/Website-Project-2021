@@ -1,0 +1,27 @@
+.signup {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin-top: 10vh;
+    border-radius: 20px;
+    text-align: center;
+    width: 150vh;
+    margin:auto;
+}
+
+.signup input {
+    width: 60vh;
+    height: 30px;
+    border-radius: 10px;
+    border: thin;
+    margin-bottom: 20px;
+
+}
+
+.signup button {
+    width: 60vh;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+}
