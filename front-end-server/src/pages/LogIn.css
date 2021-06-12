@@ -1,0 +1,24 @@
+.login {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    width: 150vh;
+    margin:auto;
+}
+
+.login input {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 60vh;
+    height: 30px;
+}
+
+.login button {
+    width: 60vh;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+}

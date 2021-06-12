@@ -1,0 +1,8 @@
+.listOfUsers {
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 10vh;
+    width: 60vh;
+    color: black;
+    border-radius: 20px;
+}
