@@ -1,0 +1,24 @@
+Core Pages
+    1. /sign-up - a page with a user sign up form
+        a. Form validation similar to Lab Exercise 9
+        b. Successfully filling out the form saves a user to the database.
+        
+    2. /log-in - Log In (email, password)
+        a. Entering valid user credentials will redirect the user to the /feed page
+        b. Non-logged in users can only
+        
+    3. /feed - View Feed
+        a. Add a form at the top of this page to allow the user to add a new post
+        b. Users can edit or delete their own posts.
+        c. User’s posts are visible in the feed.
+        d. User’s Friends’ posts are visible in the feed.
+    
+    
+Additional Features - Implement these features how you see fit.
+    1. Search
+        a. Search for another user by name
+        b. View another user’s profile (Name, email)
+        
+    2. Friends
+        a. Send friend request
+        b. Accept/Reject friend request
